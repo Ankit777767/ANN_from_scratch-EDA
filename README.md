@@ -1,5 +1,5 @@
 # 🧠 ANN_from_scratch-EDA
-> Predicting energy consumption with a homemade Artificial Neural Network — built completely from scratch (no PyTorch / TensorFlow 🚫)
+> Predicting energy consumption with a homemade Artificial Neural Network — built completely from scratch
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Status](https://img.shields.io/badge/Project-Learning-green)
